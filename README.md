@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @BenjaminAlbert387
-- 👀 I’m interested in ...
+- 👀 I’m interested in 
 - 🌱 I’m currently learning how to get better at rhythm and dance games. Oh, and coding too I guess...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: ask nicely :)
-- 😄 Pronouns: he / him
-- ⚡ Fun fact: you can't smile and breathe at the same time - try it.
+- 😄 Pronouns: he / him / his
 
 <!---
 BenjaminAlbert387/BenjaminAlbert387 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
